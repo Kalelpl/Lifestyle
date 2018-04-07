@@ -4,14 +4,12 @@ body {
     font-family: 'Lato', 'Roboto', sans-serif;
     font-weight: bold;
     letter-spacing: 3px;
-    width: 100%;
-    height: 100%;
 }
 
 /* REUSABLE */
 
 .row {
-    width: 100%;
+    width: 1440px;
     margin: 0 auto;
     overflow: hidden;
     background-color: #F7D4C8;
@@ -147,8 +145,9 @@ body {
 }
 
 .photo2:hover {
-    -webkit-transform: scale(1.2);
-    transform: scale(1.2);
+    opacity: 1;
+    -webkit-transform: scale(1.03);
+    transform: scale(1.03);
 }
 
 /* 3rd Row */
@@ -163,7 +162,8 @@ body {
 
 .photo3 {
     display: block;
-    width: 996.8px;
+    margin-top: 10px;
+    width: 100%;
     height: 820px;
     border-bottom-left-radius: 25px;
     border-top-left-radius: 25px;
@@ -183,7 +183,7 @@ body {
     border: 1px solid #B9090B;
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/party.jpg);
     border-radius: 5px;
-    margin: 20px 30px;
+    margin: 20px 35px;
     height: 330px;
     width: 20%;
 }
@@ -238,12 +238,12 @@ body {
 /*Footer*/
 
 footer {
-    height: 50px;
+    height: 40px;
 }
 
 .copyright {
     width: 100%;
-    border-top: 1px solid #B9090B;
+    border-top: 2px solid #B9090B;
 }
 
 .copyright p {
