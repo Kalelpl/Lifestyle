@@ -18,18 +18,18 @@
         margin-right: 50px;
     }
 
-    .column1 {
+     .column1 {
         float: left;
-        height: 670px;
-        -webkit-height: 670px;
+        height: 510px;
+        -webkit-height: 510px;
         width: 70%;
         -webkit-width: 70%;
     }
 
     .column2 {
         float: left;
-        height: 670px; 
-        -webkit-height: 670px;
+        height: 510px; 
+        -webkit-height: 510px;
         width: 30%;
         -webkit-width: 30%;
     }
@@ -38,6 +38,7 @@
         height: 100px;
         width: 220px;
         margin-top: 10px;
+        margin-bottom: 5px;
     }
 
     .menu {
