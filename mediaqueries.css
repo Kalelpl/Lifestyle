@@ -9,6 +9,18 @@
         width: 90%;
         height: 90%;
     }
+    
+    .column1 {
+        float: left;
+        height: 760px;
+        width: 70%;
+    }
+
+    .column2 {
+        float: left;
+        height: 740px;
+        width: 30%;
+    }
 
     .right {
         background-color: #F7D4C8;
