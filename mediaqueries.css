@@ -20,7 +20,17 @@
     .column1 {
         float: left;
         height: 760px;
+        -webkit-height: 760px;
         width: 70%;
+        -webkit-width: 70%;
+    }
+
+    .column2 {
+        float: left;
+        height: 760px;
+        -webkit-height: 760px;
+        width: 70%;
+        -webkit-width: 70%;
     }
 
     .column2 {
