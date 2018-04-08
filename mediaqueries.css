@@ -96,6 +96,15 @@
             font-size: 15px;
         }
 
+         .left {
+            height: 510px;
+        }
+        .right {
+            background-color: #F7D4C8;
+            height: 510px;
+            margin-right: 50px;
+        }
+        
         .logo {
             height: 100px;
             width: 220px;
