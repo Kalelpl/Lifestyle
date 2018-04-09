@@ -11,7 +11,7 @@ body {
 header { width: 100%;}
 
 .row {
-    width: 1440px;
+    width: 1903px;
     margin: 0 auto;
     overflow: hidden;
     background-color: #F7D4C8;
@@ -88,13 +88,14 @@ header { width: 100%;}
 .right {
     background-color: #F7D4C8;
     height: 800px;
-    padding: 10px 0;
+    padding: 10px 0px;
+    margin-right: 90px;
 }
 
 .logo {
     height: 150px;
     width: 400px;
-    margin: 40px 10px;
+    margin: 40px;
 }
 
 /* Lists */
@@ -185,7 +186,7 @@ header { width: 100%;}
     border: 1px solid #B9090B;
     background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(img/party.jpg);
     border-radius: 5px;
-    margin: 20px 35px;
+    margin: 20px 45px;
     height: 330px;
     width: 20%;
 }
