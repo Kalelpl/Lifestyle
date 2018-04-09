@@ -8,6 +8,8 @@ body {
 
 /* REUSABLE */
 
+heder { width: 100%;}
+
 .row {
     width: 1440px;
     margin: 0 auto;
