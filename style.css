@@ -9,7 +9,7 @@ body {
 /* REUSABLE */
 
 .row {
-    width: 1440px;
+    width: 100%;
     margin: 0 auto;
     overflow: hidden;
     background-color: #F7D4C8;
